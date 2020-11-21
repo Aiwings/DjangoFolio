@@ -1,1 +1,19 @@
 @import "~bootstrap/scss/bootstrap";
+
+$color_main: #213159;
+$color_secondary: #3d6098;
+$color_red : #f05b5c;
+$color_white: #e7e7e7;
+
+.color-main {
+    color:$color_main;
+}
+.color-secondary {
+    color:$color_secondary;
+}
+.color-red {
+    color:$color_red;
+}
+.color-white {
+    color:$color_white;
+} 
